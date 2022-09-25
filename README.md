@@ -6,4 +6,4 @@ Data is attached in GitHub releases.
 
 This repository was last updated on 2022-09-25.  
 An up-date-version can always be received from http://download.geonames.org/export/zip/allCountries.zip.  
-The current mirrored version can be retrieved from https://github.com/JacobsAlumni/geonames.org-mirror/releases/download/2022.09/allCountries.zip.   
+The current mirrored version can be retrieved from https://github.com/JacobsAlumni/geonames.org-mirror/releases/download/v2022.09/allCountries.zip.   
